@@ -82,6 +82,9 @@
         "no-multi-str": 1,
         "consistent-this": [0, "that"],
         "unnecessary-strict": 1,
-        "max-len": [0, 80, 4]
+        "max-len": [0, 80, 4],
+
+        "jq-object-var": 1,
+        "proper-prop-attr": 1
     }
 }
